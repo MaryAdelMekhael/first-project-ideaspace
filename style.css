@@ -134,6 +134,13 @@
     margin-top: 100px;
 }
 
+.products:hover{
+    transition:  0.5 ease;
+    background-color:rgb(139, 101, 51)
+   
+    
+
+}
 #product-cards h1{
     color:rgb(133, 78, 8);
     text-shadow: 1px 1px 1px  black;
